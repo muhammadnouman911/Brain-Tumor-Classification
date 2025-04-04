@@ -42,9 +42,8 @@ The model is trained using a dataset of MRI scans, and aims to assist in the ear
 
 ## 📊 Results
 
-- Training Accuracy: _coming soon_
-- Validation Accuracy: _coming soon_
-- Sample predictions: _coming soon_
+- Training Accuracy: 1.0
+- Validation Accuracy: 0.97
 
 ---
 
